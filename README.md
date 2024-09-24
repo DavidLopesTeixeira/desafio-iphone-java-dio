@@ -49,8 +49,8 @@ src/
    Use um IDE como IntelliJ IDEA ou Eclipse, ou compile e execute diretamente pelo terminal:
    ```bash
    cd src/main/java
-   javac com/exemplo/iphone/iPhone.java
-   java com.exemplo.iphone.iPhone
+   javac com/exercicio/iphone/iPhone.java
+   java com.exercicio.iphone.iPhone
    ```
 
 ## Exemplo de Uso
